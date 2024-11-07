@@ -26,11 +26,12 @@ Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
 ### Model Test Dataset Evaluation Results 
-Model	Precision	Recall	F1-Score	Accuracy
-Logistic Regression	80%	83%	80%	83%
-				
-Random Forest	87%	90.40%	88.70%	96.20%
-![image](https://github.com/user-attachments/assets/dc1d8a04-2977-4611-9c16-6aaf3e04470b)
+
+Model|Precision|Recall|F1-Score|Accuracy|
+-----|-----|-----|-----|-----|
+Logistic|Regression|	80%|83%|80%|83%|			
+Random Forest|	87%|	90.40%|88.70%|96.20%|
+
 
 
 
